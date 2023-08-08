@@ -12,12 +12,12 @@
   
 * terminal:  
    az login  
-   az acr login --name cuber  
-   az acr update -n cuber --admin-enabled true  
+   az acr login --name kaidev  
+   <!-- az acr update -n cuber --admin-enabled true   -->
    <!-- alternately: az acr login -n cuber --expose-token   -->
    
-   docker tag app cuber.azurecr.io/app  
-   docker push cuber.azurecr.io/app  
+   docker tag app kaidev.azurecr.io/app  
+   docker push kaidev.azurecr.io/app  
 
 * browser:  
    

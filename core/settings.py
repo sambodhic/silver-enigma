@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-7u7f+(*yw$h=cf$u$r^f_8j3=(=fg8%kvmgcb$xt&_gk))4^ce
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['kai-app.victoriousocean-91efc3c1.westus3.azurecontainerapps.io']
+ALLOWED_HOSTS = ['kai-app.salmonmushroom-4a1339d1.westus3.azurecontainerapps.io']
 
 
 # Application definition
